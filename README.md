@@ -25,7 +25,7 @@ Public transit is more than a utility—it’s a space where art meets urban lif
 ---
 
 ## **Dataset**
-This project leverages the **[MTA Permanent Art Catalog](https://data.ny.gov/Transportation/MTA-Permanent-Art-Catalog-Beginning-1980/4qxi-3cqi)** dataset, which contains:
+This project leverages the **[MTA Permanent Art Catalog](https://data.ny.gov/Transportation/MTA-Permanent-Art-Catalog-Beginning-1980/4y8j-9pkd/about_data)** dataset, which contains:
 - **Station Name**: Where the artwork is located  
 - **Line**: Subway or rail line associated with the station  
 - **Artist**: Name of the artist(s)  
