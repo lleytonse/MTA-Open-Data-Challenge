@@ -1,6 +1,7 @@
 # MTA Art Crawl: Exploring Public Art Across the MTA 🎨🚇
 
 *PLEASE ADJUST* 
+
 Welcome to your first public transit art crawl! This Web app maps public art installations across the MTA and. This project uses the MTA Permanent Art Catalog dataset to encourage both commuters and visitors to explore the city's hidden cultural gems through their transit journeys. It also provides customizable art tours along subway lines, promoting art discovery through public transit.
 
 ---
